@@ -2,6 +2,8 @@
 
 A virtual board of advisors with famous personas to help with your business decisions. This application allows you to ask questions and get responses from AI personas modeled after famous business leaders and innovators like Steve Jobs, Warren Buffett, and Elon Musk.
 
+Try it out at [https://ai-board.vercel.app/](https://ai-board.vercel.app/)
+
 ## Features
 
 - Virtual board of advisors with unique personas and perspectives
